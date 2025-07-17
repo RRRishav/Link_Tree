@@ -1,33 +1,47 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🌳 LinkTree Clone with Next.js & MongoDB
 
-## Getting Started
+A stylish and responsive LinkTree clone built using **Next.js** (App Router) and **MongoDB**. Users can create a personalized profile with a handle, upload a display picture, and add multiple links with custom titles.
 
-First, run the development server:
+
+
+## ✨ Features
+
+- 🔐 Unique user handles
+- 🔗 Add multiple links with custom text
+- 🖼 Upload profile picture
+- 📁 Store user data in MongoDB
+- 🔔 Toast notifications for user actions
+- ⚡ Modern UI with Tailwind CSS
+- 🎯 Built with App Router (Next.js 13+)
+
+---
+
+
+<img width="1883" height="901" alt="image" src="https://github.com/user-attachments/assets/99855c59-7716-4f79-aad3-8a0b40cde45b" />
+
+
+<img width="1903" height="898" alt="image" src="https://github.com/user-attachments/assets/3055ddd8-76d3-4cd7-bd96-fd5bd8239707" />
+
+
+
+
+## 🔧 Tech Stack
+
+- **Frontend**: Next.js (App Router), React, Tailwind CSS
+- **Backend**: API routes (App Router)
+- **Database**: MongoDB (via Mongoose)
+- **Notifications**: React Toastify
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the Repository
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+git clone https://github.com/your-username/linktree-clone.git
+cd linktree-clone
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
 ## Deploy on Vercel
 
